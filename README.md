@@ -12,4 +12,4 @@ You can watch how it looks like here: https://www.youtube.com/watch?v=Chrbh6JUIn
 
 ## More
 
-More about this project here: https://damnow.blogspot.com/2019/02/ive-got-st-to-do.html  
+More about this project here: https://zompidev.blogspot.com/2019/02/ive-got-st-to-do.html  
